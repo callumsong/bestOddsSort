@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Stratagem Odds</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
     <script src="app.js"></script>
   </head>
@@ -13,16 +14,19 @@
           <td>Team Name</td>
           <td>To Back</td>
           <td>To Lay</td>
-          <td>Other</td>
         </tr>
       </thead>
-      <tr ng-repeat="bet in bets | orderBy: 'bestOddsToLay': reverse">
+      <tr ng-repeat="bet in bets | orderBy: 'bestOddsToLay': reverse track by $index">
         <td>{{ bet.description.runnerName }}</td>
-        <td>{{ bet.bestOddsToBack }}</td>
-        <td>{{ bet.bestOddsToLay }}</td>
-        <td>
-          <ul>
+        <td ng-mouseover="showTeamOddsToBack($index)" ng-mouseleave="resetIndex()">
+          {{ bet.bestOddsToBack }}
+          <ul ng-show="$index === backOddsIndex">
               <li ng-repeat="odds in bet.exchange.availableToBack | orderBy: 'price'">{{ odds.price }}</li>
+          </ul>
+        </td>
+        <td ng-mouseover="showTeamOddsToLay($index)" ng-mouseleave="resetIndex()">
+          {{ bet.bestOddsToLay }}
+          <ul ng-show="$index === layOddsIndex">
               <li ng-repeat="odds in bet.exchange.availableToLay | orderBy: 'price'">{{ odds.price }}</li>
           </ul>
         </td>

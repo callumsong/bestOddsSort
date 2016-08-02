@@ -30,7 +30,24 @@ betApp.controller('mainCtrl', ['$http', '$scope', function($http, $scope) {
 
   $scope.reverse = false;
 
+  $scope.backOddsIndex = null;
+  $scope.layOddsIndex = null;
+
   $scope.sort = function() {
     $scope.reverse = !$scope.reverse;
   };
+
+  $scope.showTeamOddsToBack = function(index) {
+    $scope.backOddsIndex = index;
+  };
+
+  $scope.showTeamOddsToLay = function(index) {
+    $scope.layOddsIndex = index;
+  };
+
+  $scope.resetIndex = function() {
+    $scope.backOddsIndex = null;
+    $scope.layOddsIndex = null;
+  };
+  
 }]);
