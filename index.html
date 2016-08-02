@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html ng-app="betApp">
+  <head>
+    <meta charset="utf-8" />
+    <title>Stratagem Odds</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="app.js"></script>
+  </head>
+  <body ng-controller="mainCtrl">
+    <table>
+      <thead ng-click="sort()">
+        <tr>
+          <td>Team Name</td>
+          <td>To Back</td>
+          <td>To Lay</td>
+          <td>Other</td>
+        </tr>
+      </thead>
+      <tr ng-repeat="bet in bets | orderBy: 'bestOddsToLay': reverse">
+        <td>{{ bet.description.runnerName }}</td>
+        <td>{{ bet.bestOddsToBack }}</td>
+        <td>{{ bet.bestOddsToLay }}</td>
+        <td>
+          <ul>
+              <li ng-repeat="odds in bet.exchange.availableToBack | orderBy: 'price'">{{ odds.price }}</li>
+              <li ng-repeat="odds in bet.exchange.availableToLay | orderBy: 'price'">{{ odds.price }}</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

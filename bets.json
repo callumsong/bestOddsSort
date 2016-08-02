@@ -1,0 +1,868 @@
+{
+  "runners": [
+  {
+    "selectionId": 47999,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Man City",
+      "metadata": {
+        "runnerId": "47999"
+      }
+    },
+    "state": {
+      "sortPriority": 1,
+      "lastPriceTraded": 3.65,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 3.6,
+          "size": 10889.200933627568
+        },
+        {
+          "price": 3.55,
+          "size": 5578.160101010101
+        },
+        {
+          "price": 3.5,
+          "size": 1736.5
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 3.65,
+          "size": 5082.65
+        },
+        {
+          "price": 3.7,
+          "size": 8011.351397812247
+        },
+        {
+          "price": 3.75,
+          "size": 1010.2693743798382
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 48351,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Man Utd",
+      "metadata": {
+        "runnerId": "48351"
+      }
+    },
+    "state": {
+      "sortPriority": 2,
+      "lastPriceTraded": 4.6,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 4.6,
+          "size": 3247.84
+        },
+        {
+          "price": 4.5,
+          "size": 4417.187508417509
+        },
+        {
+          "price": 4.4,
+          "size": 3231.810473735929
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 4.7,
+          "size": 3325.117845117845
+        },
+        {
+          "price": 4.8,
+          "size": 2003.578218062686
+        },
+        {
+          "price": 4.9,
+          "size": 1111
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 55190,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Chelsea",
+      "metadata": {
+        "runnerId": "55190"
+      }
+    },
+    "state": {
+      "sortPriority": 3,
+      "lastPriceTraded": 7,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 7,
+          "size": 361.98
+        },
+        {
+          "price": 6.8,
+          "size": 5618.9650224887555
+        },
+        {
+          "price": 6.6,
+          "size": 3874.940841750842
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 7.2,
+          "size": 4075.4
+        },
+        {
+          "price": 7.4,
+          "size": 564
+        },
+        {
+          "price": 7.6,
+          "size": 728
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 1096,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Arsenal",
+      "metadata": {
+        "runnerId": "1096"
+      }
+    },
+    "state": {
+      "sortPriority": 4,
+      "lastPriceTraded": 7.4,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 7.4,
+          "size": 6067.230774410773
+        },
+        {
+          "price": 7.2,
+          "size": 860.5
+        },
+        {
+          "price": 7,
+          "size": 1309.0493275586962
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 7.6,
+          "size": 4327.728956228956
+        },
+        {
+          "price": 7.8,
+          "size": 8708.670734632684
+        },
+        {
+          "price": 8,
+          "size": 5782.207306397307
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 48224,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Tottenham",
+      "metadata": {
+        "runnerId": "48224"
+      }
+    },
+    "state": {
+      "sortPriority": 5,
+      "lastPriceTraded": 11,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 11,
+          "size": 2810.9555555555557
+        },
+        {
+          "price": 10.5,
+          "size": 630.1
+        },
+        {
+          "price": 10,
+          "size": 1024.2458770614692
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 11.5,
+          "size": 4238.038104634552
+        },
+        {
+          "price": 12,
+          "size": 1640.7675084175082
+        },
+        {
+          "price": 12.5,
+          "size": 273.7926262626263
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 56323,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Liverpool",
+      "metadata": {
+        "runnerId": "56323"
+      }
+    },
+    "state": {
+      "sortPriority": 6,
+      "lastPriceTraded": 11,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 11,
+          "size": 736.1368869885207
+        },
+        {
+          "price": 10.5,
+          "size": 4813.715218416717
+        },
+        {
+          "price": 10,
+          "size": 1612.6419397781426
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 11.5,
+          "size": 4120.99
+        },
+        {
+          "price": 12,
+          "size": 4102.803198653199
+        },
+        {
+          "price": 12.5,
+          "size": 1566.2702056952708
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 48461,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Leicester",
+      "metadata": {
+        "runnerId": "48461"
+      }
+    },
+    "state": {
+      "sortPriority": 7,
+      "lastPriceTraded": 44,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 40,
+          "size": 659.4950168350168
+        },
+        {
+          "price": 38,
+          "size": 100.1
+        },
+        {
+          "price": 36,
+          "size": 187
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 44,
+          "size": 49.342994095182604
+        },
+        {
+          "price": 46,
+          "size": 111.20568098228937
+        },
+        {
+          "price": 48,
+          "size": 123.12688155922038
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 48756,
+    "handicap": 0,
+    "description": {
+      "runnerName": "West Ham",
+      "metadata": {
+        "runnerId": "48756"
+      }
+    },
+    "state": {
+      "sortPriority": 8,
+      "lastPriceTraded": 95,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 90,
+          "size": 459.72844341719264
+        },
+        {
+          "price": 85,
+          "size": 214.95
+        },
+        {
+          "price": 80,
+          "size": 493.7384257871064
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 95,
+          "size": 235.50599700149922
+        },
+        {
+          "price": 100,
+          "size": 453.5922038980509
+        },
+        {
+          "price": 110,
+          "size": 314.7129457785919
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 56343,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Everton",
+      "metadata": {
+        "runnerId": "56343"
+      }
+    },
+    "state": {
+      "sortPriority": 9,
+      "lastPriceTraded": 120,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 110,
+          "size": 151.3750072696832
+        },
+        {
+          "price": 100,
+          "size": 349.12
+        },
+        {
+          "price": 95,
+          "size": 90.82
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 120,
+          "size": 282.1572563718141
+        },
+        {
+          "price": 130,
+          "size": 300.1750841750842
+        },
+        {
+          "price": 140,
+          "size": 362.8
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 58943,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Southampton",
+      "metadata": {
+        "runnerId": "58943"
+      }
+    },
+    "state": {
+      "sortPriority": 10,
+      "lastPriceTraded": 230,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 220,
+          "size": 120.81
+        },
+        {
+          "price": 210,
+          "size": 17.26
+        },
+        {
+          "price": 200,
+          "size": 35
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 230,
+          "size": 139.09
+        },
+        {
+          "price": 240,
+          "size": 40.8
+        },
+        {
+          "price": 250,
+          "size": 193.23988005997
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 62523,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Crystal Palace",
+      "metadata": {
+        "runnerId": "62523"
+      }
+    },
+    "state": {
+      "sortPriority": 11,
+      "lastPriceTraded": 570,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 550,
+          "size": 44.65
+        },
+        {
+          "price": 530,
+          "size": 31.30500270066987
+        },
+        {
+          "price": 520,
+          "size": 88.61
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 580,
+          "size": 179.11488215488217
+        },
+        {
+          "price": 610,
+          "size": 113.45
+        },
+        {
+          "price": 730,
+          "size": 11.85858585858586
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 63907,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Middlesbrough",
+      "metadata": {
+        "runnerId": "63907"
+      }
+    },
+    "state": {
+      "sortPriority": 12,
+      "lastPriceTraded": 740,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 500,
+          "size": 16.37700336700337
+        },
+        {
+          "price": 430,
+          "size": 17.046835016835015
+        },
+        {
+          "price": 410,
+          "size": 14.690000000000003
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 730,
+          "size": 150
+        },
+        {
+          "price": 770,
+          "size": 13.603501683501683
+        },
+        {
+          "price": 980,
+          "size": 10.579831649831652
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 7321995,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Swansea ",
+      "metadata": {
+        "runnerId": "7321995"
+      }
+    },
+    "state": {
+      "sortPriority": 13,
+      "lastPriceTraded": 650,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 640,
+          "size": 41.26
+        },
+        {
+          "price": 600,
+          "size": 14.726262626262626
+        },
+        {
+          "price": 300,
+          "size": 19.311010101010105
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 650,
+          "size": 58.5
+        },
+        {
+          "price": 670,
+          "size": 99.65995502248875
+        },
+        {
+          "price": 710,
+          "size": 104.91
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 69720,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Stoke",
+      "metadata": {
+        "runnerId": "69720"
+      }
+    },
+    "state": {
+      "sortPriority": 14,
+      "lastPriceTraded": 720,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 700,
+          "size": 15.5
+        },
+        {
+          "price": 690,
+          "size": 14.37
+        },
+        {
+          "price": 670,
+          "size": 16.759955022488754
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 720,
+          "size": 281.86
+        },
+        {
+          "price": 750,
+          "size": 186.38
+        },
+        {
+          "price": 840,
+          "size": 11.786599326599326
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 62783,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Sunderland",
+      "metadata": {
+        "runnerId": "62783"
+      }
+    },
+    "state": {
+      "sortPriority": 15,
+      "lastPriceTraded": 880,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 870,
+          "size": 18.37
+        },
+        {
+          "price": 800,
+          "size": 13.96828282828283
+        },
+        {
+          "price": 500,
+          "size": 13.059999999999997
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 880,
+          "size": 64.92746626686656
+        },
+        {
+          "price": 940,
+          "size": 221.39
+        },
+        {
+          "price": 950,
+          "size": 176.86
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 56301,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Watford",
+      "metadata": {
+        "runnerId": "56301"
+      }
+    },
+    "state": {
+      "sortPriority": 16,
+      "lastPriceTraded": 900,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 860,
+          "size": 19.44
+        },
+        {
+          "price": 850,
+          "size": 14.15
+        },
+        {
+          "price": 800,
+          "size": 16.835016835016837
+        }
+      ],
+      "availableToLay": [
+        {
+          "price": 900,
+          "size": 66.49
+        },
+        {
+          "price": 940,
+          "size": 253.6499700149925
+        },
+        {
+          "price": 950,
+          "size": 135.82
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 56299,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Burnley",
+      "metadata": {
+        "runnerId": "56299"
+      }
+    },
+    "state": {
+      "sortPriority": 17,
+      "lastPriceTraded": 1000,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 1000,
+          "size": 40.27
+        },
+        {
+          "price": 980,
+          "size": 23.03
+        },
+        {
+          "price": 940,
+          "size": 10.81972500424376
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 1703,
+    "handicap": 0,
+    "description": {
+      "runnerName": "West Brom",
+      "metadata": {
+        "runnerId": "1703"
+      }
+    },
+    "state": {
+      "sortPriority": 18,
+      "lastPriceTraded": 1000,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 1000,
+          "size": 140.5438687591142
+        },
+        {
+          "price": 900,
+          "size": 25.385009336275676
+        },
+        {
+          "price": 500,
+          "size": 14
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 1141,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Bournemouth",
+      "metadata": {
+        "runnerId": "1141"
+      }
+    },
+    "state": {
+      "sortPriority": 19,
+      "lastPriceTraded": 1000,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 1000,
+          "size": 88.67985687616678
+        },
+        {
+          "price": 970,
+          "size": 10.435514386780726
+        },
+        {
+          "price": 900,
+          "size": 27.5
+        }
+      ]
+    }
+  },
+  {
+    "selectionId": 70385,
+    "handicap": 0,
+    "description": {
+      "runnerName": "Hull",
+      "metadata": {
+        "runnerId": "70385"
+      }
+    },
+    "state": {
+      "sortPriority": 20,
+      "lastPriceTraded": 1000,
+      "totalMatched": 0,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "availableToBack": [
+        {
+          "price": 1000,
+          "size": 164.73211791736335
+        },
+        {
+          "price": 510,
+          "size": 11.395009336275676
+        },
+        {
+          "price": 100,
+          "size": 2104.262828282828
+        }
+      ]
+    }
+  }
+]
+}
